@@ -17,8 +17,8 @@
   
 + Level of Difficulty: Medium
   
-Aspects of Difficulty: Familiarize with Github
++ Aspects of Difficulty: Familiarize with Github
 
-Feels pretty comfortable with the course content till this point
++ Feels pretty comfortable with the course content till this point
 
-No additional feedback
++ No additional feedback
