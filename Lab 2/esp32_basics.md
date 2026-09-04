@@ -39,7 +39,11 @@ duration
 
 ## Time Reporting and Reflection
 **Time to Complete Assignment**: 2.5 Hours
+
 **Level of Difficulty**: Medium
+
 **Aspects of Difficulty**: Familiarize with ESP32 hardware and trying to make the blinking more creative with the use of LLM and making it work on the board.
-+Feels pretty comfortable with the course content till this point
+
++Feels pretty comfortable with the course content up to this point
+
 +No additional feedback
