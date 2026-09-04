@@ -1,6 +1,7 @@
 # esp32_basics
 
-**Name**: Zhengxi Mi 
+**Name**: Zhengxi Mi (zxm292)
+
 *esp32_basics Lab Assignment*
 
 ## Lab Abstract
