@@ -14,4 +14,5 @@ this table of contents, along with a brief description of what is included
 
 # Weekly Workbook Abstract
 Week 1: Intro to markdown type file and modifying .md files. Getting clear on how things will work out and be organized throughout this semester- long project
-Week 2: Get hands-on experience with ESP 32 hardware and wrote some simple code for the Blinking assignment
+
+Week 2: Get hands-on experience with ESP 32 hardware and some simple code for the Blinking assignment
