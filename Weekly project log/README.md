@@ -8,4 +8,4 @@ this table of contents, along with a brief description of what is included
 | Weeks   | What we did                                                                             |
 | ------- | --------------------------------------------------------------------------------------- |
 | Week 1  | Markdown and Github Basics                                                                   |
-| Week 2  | ...and so on                                                                            |
+| Week 2  | ESP32 Intro & Stakeholder Interview                                                                         |
