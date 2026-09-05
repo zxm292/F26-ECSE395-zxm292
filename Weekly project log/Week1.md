@@ -3,33 +3,51 @@
 **Name**: Zhengxi Mi
 
 **Workbook Purpose**: The purpose of this workbook is to make a detailed record of what I've done this week towards our semester project
+
 ## Roadmap
+
 -[ ] Formed team based on CATME survey 
 (Completed before Aug 24, 2026)
+
 -[ ] Meet with the team in-person during Friday lab 
 (Completed 08/28/26 2:05-2:55 pm)
+
 -[ ] Created team iMessage group chat 
 (Completed Aug 27,2026)
+
 -[ ] Ranked & Completed project topic choices 
 (Check the final rankin below) (Completed Aug 27,2026)
+
 -[ ] Received assignment of final topic choices (Team 8 - Forget clothes in washing machine/dryer)
+
 -[ ] Coordinated and discussed team meeting time along with drafting an email to the stakeholder 
 (Drafted by Daniel, team discussion through iMessage, completed Aug 27,2026)
+
 -[ ] Discussed, revised, signed, and submitted team contract
 (Zhengxi Mi did the paperwork; Completed Aug 28,2026)
+
 -[ ] Email sent to the stakeholder (Sent by Daniel during Lab#1; Aug 28, 2026)
 
 **Team Contract Workbook**
+
 With the template provided, we first decided our team name to be team Fresh, then, we created a new role of Software Manager. Him/her is responsible to maintain, organize, combine code segments, making sure that it functions properly. Lastly, we revised the team expectation section by adding more detailed expectation on each role. We also revised the revision history table.
 
 **Topic Ranking**
+
 1.Difficulty distinguishing the direction that loud sounds originate from 
+
 2.Bird feeder that will only dispense food for birds and not deer 
+
 3.Baby gets too close to the stairs, wants to be notified without scaring the baby
+
 4.Forget clothes in washing machine/dryer
+
 5.Forget to close windows before leaving for work 
+
 6.Forget to close the toliet before flushing
+
 7.Need to keep the cat entertained while at work
+
 8.Automated way to score basketball league's pitch,hit, and run competition
 
 
