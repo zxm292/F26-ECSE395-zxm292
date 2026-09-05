@@ -6,6 +6,7 @@
 
 
 ## Project Update
+
 The section below will give an overview of individual contributions and group works completed up-to this point as well as some general project updates refering to the course roadmap. 
 
 1.From the lectures I learned how we could prepare ahead before the actual interview with our stakeholder by having a brief picture in the order of introduction, rising action, climax, etc. with each corresponding to a part of the interview. (09/02/26)
@@ -27,11 +28,13 @@ The section below will give an overview of individual contributions and group wo
 (09/04/26)
 
 ## Group Work
+
 1.Wrote down 11 prepared questions prior to the meeting with our stakeholder
 
 2.Meeting with the stake holder and obtained lots of detailed, insigntful information that would allow us to narrow down as we move on with the topic
 
 ## Stakeholder Meeting Notes
+
 **Time**: 7:00–8:00 PM
 
 **Location**: Zoom
@@ -41,9 +44,11 @@ The section below will give an overview of individual contributions and group wo
 **Problem statement**: The stakeholder frequently forgets clothes in the washer or dryer
 
 **Executive Summary**
+
 The stakeholder’s main difficulty is remembering to empty the dryer, particularly during busy weeks or when away from home during a cycle. The machine's built-in beep is ineffective because it may not be heard from other floors, and even heard reminders are often dismissed and forgotten. The stakeholder prefers a physical device over phone notifications, wants little or no required interaction, and would benefit from repeated visible reminders.
 
 **Key findings**
+
 1.Clothes may remain in the dryer for more than a day or even longer
 
 2.Forgetting laundry is more common during busy weeks and when loads are started before work or at night
@@ -56,6 +61,7 @@ The stakeholder’s main difficulty is remembering to empty the dryer, particula
 
 
 **Stakeholder preferences**
+
 1.Prefers a physical household reminder over a phone notification because the phone is frequently silenced during work
 
 2.Wants automatic detection; pressing a button or completing another step for every load would be cumbersome and easy to forget.
@@ -73,6 +79,7 @@ The stakeholder’s main difficulty is remembering to empty the dryer, particula
 8.Prefers wall power for the household display, while a battery-powered sensor near the machines would be acceptable
 
 **Design implications (What we would expect the design to have or consider)**
+
 1.Detect automatically whether laundry remains in the washer or dryer.
 
 2.Work with cycles of different lengths and settings instead of relying only on a fixed timer.
