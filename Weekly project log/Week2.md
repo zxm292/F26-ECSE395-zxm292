@@ -33,8 +33,11 @@ The section below will give an overview of individual contributions and group wo
 
 ## Stakeholder Meeting Notes
 **Time**: 7:00–8:00 PM
+
 **Location**: Zoom
+
 **Meeting Minutes**: 6:58–8:00 PM
+
 **Problem statement**: The stakeholder frequently forgets clothes in the washer or dryer
 
 **Executive Summary**
@@ -42,29 +45,50 @@ The stakeholder’s main difficulty is remembering to empty the dryer, particula
 
 **Key findings**
 1.Clothes may remain in the dryer for more than a day or even longer
+
 2.Forgetting laundry is more common during busy weeks and when loads are started before work or at night
+
 3.The stakeholder sometimes hears the dryer beep but is too busy to respond immediately and later forgets it
+
 4.The greatest impact is having needed items—especially towels—unavailable and having to empty an old load before beginning another
+
 5.Moving laundry from the washer to the dryer is generally less problematic
+
 
 **Stakeholder preferences**
 1.Prefers a physical household reminder over a phone notification because the phone is frequently silenced during work
+
 2.Wants automatic detection; pressing a button or completing another step for every load would be cumbersome and easy to forget.
+
 3.Would accept repeated or continuous reminders.
+
 4.Prefers a persistent visual or text-based indicator over repeated sounds.
+
 5.A text display may communicate status better than a simple light.
+
 6.Would like the reminder positioned near the kitchen, living room, or front door so it remains visible when at home or returning from work.
+
 7.Is comfortable attaching or installing a small device
+
 8.Prefers wall power for the household display, while a battery-powered sensor near the machines would be acceptable
 
 **Design implications (What we would expect the design to have or consider)**
 1.Detect automatically whether laundry remains in the washer or dryer.
+
 2.Work with cycles of different lengths and settings instead of relying only on a fixed timer.
+
 3.Require minimal or no stakeholder interaction.
+
 4.Communicate with a separate display elsewhere in the house.
+
 5.Provide a persistent message until the laundry is removed.
+
 6.Support redundant reminders when multiple loads are running.
+
 7.Avoid depending primarily on sound or phone notifications.
+
 8.Fit somewhere other than the top of the machines.
+
 9.Account for ambient noise, darkness, pets, heat, and moisture.
+
 10.Avoid sensor placement where the cat or stored objects could obstruct it
