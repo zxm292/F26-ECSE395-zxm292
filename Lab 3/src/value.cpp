@@ -1,6 +1,9 @@
+/*
 #include <Arduino.h>
 
-//Put your potentiometer pin assignment here
+//Defining potentiometer pin
+#define POTENTIOMETER_PIN A1
+
 const int sensorPin = 0;
 
 void setup() {
@@ -8,7 +11,10 @@ void setup() {
 }
 
 void loop() {
-  //This line should print out the values from the sensor by Serial.println(??);
-  
-  delay(50); 
-}
+  int sensorValue = analogRead(POTENTIOMETER_PIN);
+
+  Serial.println(sensorValue);
+  delay(50);
+} */
+
+
