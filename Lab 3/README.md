@@ -30,3 +30,5 @@ If you are not sure how to complete this lab, first, try to find any online reso
     + Did you connect your sensor and ESP32 correctly?
 * My output is an integer, not a float!
     + Inspect the data type of your variable
+
+  ![IMG_8972](https://github.com/user-attachments/assets/752003ec-4447-4cbd-9a18-dbed04dbbd00)
