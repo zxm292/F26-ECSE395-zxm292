@@ -171,7 +171,9 @@ No additional feedback
 ## Pictures of Circuits
 <img width="1279" height="1706" alt="Lab#4 Circuit" src="https://github.com/user-attachments/assets/bbfd4f6e-432c-48e0-8024-f9ec01d33365" />
 
-![Lab#4 Circuit(1)](https://github.com/user-attachments/assets/3ebdcb2e-2027-4aab-b6fe-e04cd2fe6ba0)
+<img width="5712" height="4284" alt="Lab#4 Circuit(1)" src="https://github.com/user-attachments/assets/f412e7ab-c6dd-43bc-a37b-98a274f3577f" />
+
+
 
 
 
