@@ -116,3 +116,5 @@ B -> GPIO12
 "-" -> GND
 
 <img width="4032" height="3024" alt="Lab#5 Circuit" src="https://github.com/user-attachments/assets/a46946fd-6599-4753-8b35-b44f1f094161" />
+
+<img width="2066" height="1079" alt="Lab#5 Circuit Schematic" src="https://github.com/user-attachments/assets/67771c94-c14e-4c1d-9077-592f6b2dfefb" />
