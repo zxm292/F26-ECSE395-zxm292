@@ -95,3 +95,15 @@ No additional feedback
 
 ## Pictures of Circuits
 **Circuit schematic and Wire connections**
+Touch Sensor: 
+GND -> GND on ESP32
+VCC -> 3V on ESP32
+SIG -> A1 on ESP32
+
+RGB LED Module:
+R -> GPIO33
+G -> GPIO27
+B -> GPIO12
+- -> GND
+
+<img width="4032" height="3024" alt="Lab#5 Circuit" src="https://github.com/user-attachments/assets/a46946fd-6599-4753-8b35-b44f1f094161" />
