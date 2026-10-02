@@ -12,6 +12,7 @@ this table of contents, along with a brief description of what is included
 | Week 3  | Playing with sensors - ESP32      |
 | Week 4  | ESP32 with DC Gear Motor & Servo Motor      |
 | Week 5  | ESP32 integration exploration with sensors and actuators      |
+| Week 6  | Group Project Collaboration & System Architecture      |
 
 
 # Weekly Workbook Abstract
@@ -24,3 +25,5 @@ this table of contents, along with a brief description of what is included
 **Week 4** Get hands-on experience connecting and controlling a DC Gear Motor and a Servo Motor using ESP32, and observe how changing different parameters could result in different behaviors of the motors.
 
 **Week 5** Get hands-on experience designing our own functioning system that incorporates a self-chosen sensor and actuator, serving different functions. 
+
+**Week 6** This is the first week for the group to collaborate on the term project during lab time, while each member was in charge of a specific part and worked on system architecture.
