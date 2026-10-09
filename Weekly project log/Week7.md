@@ -24,6 +24,8 @@ The section below will give an overview of individual contributions and group wo
 
 2.Finished prototype for LCD display and tested a few sensors such as the ultrasonic sensor, get protoype 2 prepared for Friday. OLED display was nearly done after Week 6 lab.(10/08/26)
 
+(More specifically, I made the protoype 2 incorporating components such as ultrasonic sensor, humidity/temperature sensor, vibration sensor, and OLED display. Forming a system with analysis ability that would interpret the input data from these sensors and output corresponding information of machine status on the display.)
+
 3.Meet with Daniel to work on prototype 2 and get prepared for lab progress check on Friday (10/08/26)
 
 ## Group Work
