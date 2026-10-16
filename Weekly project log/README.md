@@ -14,6 +14,7 @@ this table of contents, along with a brief description of what is included
 | Week 5  | ESP32 integration exploration with sensors and actuators      |
 | Week 6  | Group Project Collaboration & System Architecture      |
 | Week 7  | Group Project Collaboration on Prototype 1&2      |
+| Week 8  | Group Project Collaboration on Prototype 3      |
 
 
 # Weekly Workbook Abstract
@@ -31,3 +32,4 @@ this table of contents, along with a brief description of what is included
 
 **Week 7** This is the second week for the group to collaborate on the term project during lab time, while I worked on the display part of the project -> OLED and LCD Displays
 
+**Week 8** This is the third week for the group to collaborate on the term project during lab time, the team spends extra time outside of class and finished protoptype 3, getting prepared for check-in on Friday
