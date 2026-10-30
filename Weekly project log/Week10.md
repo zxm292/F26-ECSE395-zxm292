@@ -1,4 +1,4 @@
-## Week9 WorkLog
+## Week10 WorkLog
 **Name**: Zhengxi Mi (zxm292)
 
 **Workbook Purpose**: The purpose of this workbook is to make a detailed record of what I've done in Week#10 towards our semester project as well as marking out my individual contribution and group works
