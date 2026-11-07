@@ -17,6 +17,7 @@ this table of contents, along with a brief description of what is included
 | Week 8  | Group Project Collaboration on Prototype 3      |
 | Week 9  | Group Project Collaboration and Preparation for upcoming MVP assignment      |
 | Week 10 | Midterm Team Presentation & MVP Upgrading      |
+| Week 11 | MVP Upgrading & Preparation Validation Testing     |
 
 
 
@@ -40,4 +41,7 @@ this table of contents, along with a brief description of what is included
 **Week 9** This is the forth week for the group to collaborate on the term project during lab time, the team starts preparation for MVP assignment and I get started making the 3D printed shell for the sensors
 
 **Week 10** Presented group process to the class and Upgraded existing MVP as well as get prepared for progress check during Friday lab.
+
+**Week 11** Upgraded existing MVP including protection enclosures and debugging for detection accuracy of the vibration sensor. 
+
 
