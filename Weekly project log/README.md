@@ -18,7 +18,7 @@ this table of contents, along with a brief description of what is included
 | Week 9  | Group Project Collaboration and Preparation for upcoming MVP assignment      |
 | Week 10 | Midterm Team Presentation & MVP Upgrading      |
 | Week 11 | MVP Upgrading & Preparation Validation Testing     |
-
+| Week 12 | Validation Testing & Finalizing Software     |
 
 
 # Weekly Workbook Abstract
@@ -44,4 +44,4 @@ this table of contents, along with a brief description of what is included
 
 **Week 11** Upgraded existing MVP including protection enclosures and debugging for detection accuracy of the vibration sensor. 
 
-
+**Week 12** Resolved issue with the vibration sensor & Data Analysis
