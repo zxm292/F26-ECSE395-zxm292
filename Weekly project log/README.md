@@ -19,6 +19,7 @@ this table of contents, along with a brief description of what is included
 | Week 10 | Midterm Team Presentation & MVP Upgrading      |
 | Week 11 | MVP Upgrading & Preparation Validation Testing     |
 | Week 12 | Validation Testing & Finalizing Software     |
+| Week 13 | Validation Testing Data Analysis & Control Group Testing     |
 
 
 # Weekly Workbook Abstract
