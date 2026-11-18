@@ -46,3 +46,5 @@ this table of contents, along with a brief description of what is included
 **Week 11** Upgraded existing MVP including protection enclosures and debugging for detection accuracy of the vibration sensor. 
 
 **Week 12** Resolved issue with the vibration sensor & Data Analysis
+
+**Week 13** Data Analysis for Validation Testing & Control Group Data Collection
