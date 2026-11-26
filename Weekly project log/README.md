@@ -20,6 +20,7 @@ this table of contents, along with a brief description of what is included
 | Week 11 | MVP Upgrading & Preparation Validation Testing     |
 | Week 12 | Validation Testing & Finalizing Software     |
 | Week 13 | Validation Testing Data Analysis & Control Group Testing     |
+| Week 15 | Final Presentation & Lab Kit checkout & Sign-out Form     |
 
 
 # Weekly Workbook Abstract
@@ -48,3 +49,5 @@ this table of contents, along with a brief description of what is included
 **Week 12** Resolved issue with the vibration sensor & Data Analysis
 
 **Week 13** Data Analysis for Validation Testing & Control Group Data Collection
+
+**Week 15** Prepare and present final product to the class & checkout from the lab, returning kits and all components
